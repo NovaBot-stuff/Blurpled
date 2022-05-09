@@ -1,0 +1,40 @@
+{
+  "name": "blurple",
+  "displayName": "Blurple",
+  "description": "Blurpled!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "publisher": "BlurpleTheme",
+  "author": {
+    "name": "BlurpleTheme"
+  },
+  "icon": "images/paint.png",
+  "homepage": "https://dashboard.nova-bot.tk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nova-develoment-team/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "VSCode",
+    "Theme",
+    "Blurple",
+    "Flow"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blurple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/duckeys-blurple-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+  }
+}
