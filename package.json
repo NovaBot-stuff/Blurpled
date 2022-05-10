@@ -1,5 +1,5 @@
 {
-  "name": "blurple",
+  "name": "blurpletheme",
   "displayName": "Blurple",
   "description": "Blurpled!",
   "version": "0.0.1",
@@ -14,7 +14,7 @@
   "homepage": "https://dashboard.nova-bot.tk",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nova-develoment-team/"
+    "url": "https://github.com/Nova-develoment-team/Blurpled"
   },
   "license": "MIT",
   "keywords": [
@@ -29,7 +29,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Blurple",
+        "label": "Blutrple",
         "uiTheme": "vs-dark",
         "path": "./themes/duckeys-blurple-color-theme.json"
       }
